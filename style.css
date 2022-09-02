@@ -1,4 +1,7 @@
-.p {
+.odd {
     background-color: lightcoral; font-family: Verdana, DejaVu Sans, san-serif
-    
+
+}
+#two {
+    color: blue; font-size: 36px
 }
